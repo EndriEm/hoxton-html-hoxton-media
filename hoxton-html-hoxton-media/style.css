@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{ 
+    background-color: #152331;
+    height: 50px;
+}
+
+.title{
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.nav{
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.main{
+    
+}
+.first-content{
+    height: 200px;
+
+}
+
+.subscribe-button{
+    border-radius: 8px;
+    padding: 10px 15px 10px 15px;
+    margin: 15px; 
+    font-size: 10px;
+    color: #cbb55e;
+    border: 1px solid;
+}
+
+h2{
+    color: #748aa2;
+    padding: 20px;
+    
+}
+
+p{
+    color: #313d49;
+    padding: 20px;
+
+}
+
+
+
+
+.footer{
+    background-color: #152331;
+    color: white;
+    padding: 10px;
+    
+}
